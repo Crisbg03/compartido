@@ -1,3 +1,3 @@
 public enum Tipo {
-    Curativo, Armadura, Ataque, casco
+    Curativo, Armadura, Ataque, Casco
 }
