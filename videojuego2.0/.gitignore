@@ -1,0 +1,5 @@
+node_modules/    # Ignora toda la carpeta de librerías
+.env             # Ignora archivos con claves secretas
+*.log            # Ignora todos los archivos que terminen en .log
+.DS_Store        # Archivos basura de macOS
+bin/
